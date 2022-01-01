@@ -31,25 +31,34 @@ In cannabis, I am an entrepreneurial data scientist, skilled API consultant, mar
 - Google Cloud Platform: Cloud Instance, Cloud Scheduler, Cloud Function, Cloud Storage
 
 ➤ Data Preparation - nltk, opencv, Labelbox
+
 ➤ Data Visualization -  Seaborn, Matplotlib, Excel
+
 ➤ Modelling Tools - Keras, Tensorflow, scikit-learn, scipy, GPT, YOLO
+
 ➤ Statistics -  A/B Testing, Hypothesis Testing, T-Test, Bayesian Inference
 
 #### Software Development
 ➤ Database Systems - DynamoDB, PostgreSQL, SQLite, MySQL
+
 ➤ Programming and Scripting Languages - Python, Bash, R, Docker
+
 ➤ Web Development - HTML, CSS, JavaScript, WordPress, Flask, nginx
+
 ➤ Development Tools - Visual Studio Code, nano, Jupyter Notebook, Linux, macOS, Vim
 
 
 #### Day-to-Day Business Tasks: 
 ➤ Project Management Tools - Toggl, Todoist, Asana
+
 ➤ Communication Tools - Zoom, Discord, Slack, Teams
+
 ➤ Documentation Tools - Atlassian, Notion, LaTeX, Markdown
 
 
 #### Other Competencies: 
 ➤ Mathematics - Differential Equations, Number Theory, Multi-Variate Calculus, Linear Algebra
+
 ➤ Podcast Management - RSS Feeds, Google Analytics, Self-Hosting Media
 
 Contact me directly at business@ryanpapetti.com or visit me at ryanpapetti.com
