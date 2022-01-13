@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 🧑‍💼 WHO AM I?
-In cannabis, I am an entrepreneurial data scientist, skilled API consultant, marketing innovator, and cloud architect. Outside of cannabis, I am a freelance web programmer, developer for podcast hosting service, ad-hoc data engineer, and open-source enthusiast.
+I am an entrepreneurial data scientist, skilled API consultant, marketing innovator, and cloud architect.
 
 ### 🧑‍💻 TECH STACK
 
