@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 🧑‍💼 WHO AM I?
-I am an entrepreneurial data scientist, skilled API consultant, marketing innovator, and cloud architect.
+I am Machine Learning Engineer for FeedbackFruits who loves working with data and Large Language Models to improve the future of pedagogy and higher education.
 
 ### 🧑‍💻 TECH STACK
 
@@ -43,13 +43,13 @@ I am an entrepreneurial data scientist, skilled API consultant, marketing innova
 
 ➤ Programming and Scripting Languages - Python, Bash, R, Docker
 
-➤ Web Development - HTML, CSS, JavaScript, WordPress, Flask, nginx
+➤ Web Development - HTML, CSS, JavaScript (EmberJS), WordPress, Flask, nginx
 
 ➤ Development Tools - Visual Studio Code, nano, Jupyter Notebook, Linux, macOS, Vim
 
 
 #### Day-to-Day Business Tasks: 
-➤ Project Management Tools - Toggl, Todoist, Asana
+➤ Project Management Tools - Toggl, Todoist, Asana, Shortcut
 
 ➤ Communication Tools - Zoom, Discord, Slack, Teams
 
