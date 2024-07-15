@@ -24,7 +24,7 @@ I am Machine Learning Engineer for FeedbackFruits who loves working with data an
 #### Data Science and Engineering:
 ➤ Cloud Architecture
 
-- Amazon Web Services (AWS):  EC2, CloudFront, Lightsail, Lambda, Glue, Step Functions, CloudWatch, IAM, S3, Route 53, RDS
+- Amazon Web Services (AWS):  EC2, CloudFront, Lightsail, Lambda, Glue, Step Functions, CloudWatch, IAM, S3, Route 53, RDS, API Gateway
 
 - Azure: Azure Functions, Function Apps, Azure Storage
 
