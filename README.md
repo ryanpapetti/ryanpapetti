@@ -41,7 +41,9 @@ I am Machine Learning Engineer for FeedbackFruits who loves working with data an
 #### Software Development
 ➤ Database Systems - DynamoDB, PostgreSQL, SQLite, MySQL
 
-➤ Programming and Scripting Languages - Python, Bash, R, Docker
+➤ Programming and Scripting Languages - Python, Bash, R, Ruby, JavaScript (EmberJS)
+
+➤ Containerization and Orchestration - Docker, Kubernetes
 
 ➤ Web Development - HTML, CSS, JavaScript (EmberJS), WordPress, Flask, nginx
 
@@ -60,5 +62,7 @@ I am Machine Learning Engineer for FeedbackFruits who loves working with data an
 ➤ Mathematics - Differential Equations, Number Theory, Multi-Variate Calculus, Linear Algebra
 
 ➤ Podcast Management - RSS Feeds, Google Analytics, Self-Hosting Media
+
+➤ Certified Scrum Master (Epic Agility in June 2023)
 
 Contact me directly at business@ryanpapetti.com or visit me at ryanpapetti.com
