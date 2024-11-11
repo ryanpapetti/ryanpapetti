@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 🧑‍💼 WHO AM I?
-I am Machine Learning Engineer for FeedbackFruits who loves working with data and Large Language Models to improve the future of pedagogy and higher education.
+I am a Machine Learning Engineer for FeedbackFruits who loves working with data and Large Language Models to improve the future of pedagogy and higher education.
 
 ### 🧑‍💻 TECH STACK
 
