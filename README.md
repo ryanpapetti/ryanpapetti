@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 🧑‍💼 WHO AM I?
-I am a Machine Learning Engineer for FeedbackFruits who loves working with data and Large Language Models to improve the future of pedagogy and higher education.
+I am a Machine Learning Engineer for FeedbackFruits who loves working with data and LLMs to improve the future of pedagogy and higher education.
 
 ### 🧑‍💻 TECH STACK
 
@@ -59,9 +59,6 @@ I am a Machine Learning Engineer for FeedbackFruits who loves working with data 
 
 
 #### Other Competencies: 
-➤ Mathematics - Differential Equations, Number Theory, Multi-Variate Calculus, Linear Algebra
-
-➤ Podcast Management - RSS Feeds, Google Analytics, Self-Hosting Media
 
 ➤ Certified Scrum Master (Epic Agility in June 2023)
 
