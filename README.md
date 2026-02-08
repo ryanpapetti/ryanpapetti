@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 
 ### 🧑‍💼 WHO AM I?
-I am an AI Engineer for FeedbackFruits who loves working with data and LLMs to improve the future of pedagogy and higher education.
+I am an AI Engineer for Studocu who loves working with data and LLMs to improve the future of pedagogy and higher education.
 
 ### 🧑‍💻 TECH STACK
 
 #### Data Science and Engineering:
 ➤ Cloud Architecture
 
-- Amazon Web Services (AWS):  EC2, CloudFront, Lightsail, Lambda, Glue, Step Functions, CloudWatch, IAM, S3, Route 53, RDS, API Gateway
+- Amazon Web Services (AWS):  EC2, CloudFront, Lightsail, Lambda, Step Functions, CloudWatch, IAM, S3, Route 53, RDS, API Gateway
 
-- Azure: Azure Functions, Function Apps, Azure Storage
+- Azure: Azure Functions, Function Apps, Azure Storage, Document Intelligence Services
 
 - Google Cloud Platform: Cloud Instance, Cloud Scheduler, Cloud Function, Cloud Storage
 
@@ -45,13 +45,13 @@ I am an AI Engineer for FeedbackFruits who loves working with data and LLMs to i
 
 ➤ Containerization and Orchestration - Docker, Kubernetes
 
-➤ Web Development - HTML, CSS, JavaScript (EmberJS), WordPress, Flask, nginx
+➤ Web Development - HTML, CSS, JavaScript (EmberJS), WordPress, Flask, nginx, FastAPI
 
-➤ Development Tools - Visual Studio Code, nano, Jupyter Notebook, Linux, macOS, Vim
+➤ Development Tools - Visual Studio Code, Jupyter Notebook, Linux, macOS, Vim
 
 
 #### Day-to-Day Business Tasks: 
-➤ Project Management Tools - Toggl, Todoist, Asana, Shortcut
+➤ Project Management Tools - Toggl, Todoist, Asana, Shortcut, Linear
 
 ➤ Communication Tools - Zoom, Discord, Slack, Teams
 
